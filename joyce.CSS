@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box;
+	font-family:italics;
+}
+
+.title{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 70px;
+
+}
+.about-content{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: right;
+}
+.paul img{
+	width: 40%;
+	float: right;
+	border-radius: 10px;
+}
+
+.paul{
+	position: absolute;
+	width: 70%;
+	left: 15%;
+	t0p: 20%;
+	background-color: black;
+	padding:30px ;
+}
+
+footer{
+	text-decoration-style:italic;
+	text-align:center;
+	color:lightblue;
+}
+
